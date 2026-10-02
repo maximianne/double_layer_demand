@@ -1,0 +1,44 @@
+{
+  "reporting": {
+    "success": true,
+    "message": "Optimization terminated successfully.",
+    "max_average_score": 4.5920561996958966e-09,
+    "negative_loglik": 0.4944623777435698
+  },
+  "ipw_ppml": {
+    "converged": true,
+    "iterations": 7,
+    "design_rank": 177,
+    "columns": 177,
+    "max_average_score": 6.859277489542722e-09,
+    "weighted_objective": -26.87679483735395,
+    "hessian_condition": 10281102.521237079
+  },
+  "unweighted_ppml": {
+    "converged": true,
+    "iterations": 7,
+    "design_rank": 177,
+    "columns": 177,
+    "max_average_score": 4.156174495613356e-09,
+    "weighted_objective": -27.528428726090937,
+    "hessian_condition": 94278893.23512474
+  },
+  "rows": 69120,
+  "reporting_rate": 0.6684751157407407,
+  "missing_sales": 22915,
+  "observed_zero_sales": 316,
+  "min_pi": 0.039857828658607826,
+  "max_pi": 0.996815813705129,
+  "max_ipw": 25.089174038185764,
+  "ipw_effective_sample_size": 33002.98203432037,
+  "pi_below_005": 288,
+  "weights_trimmed": false,
+  "pi_quantiles": {
+    "0.01": 0.07416787435735081,
+    "0.05": 0.16741689027223092,
+    "0.5": 0.7121329397056364,
+    "0.95": 0.9714474421550756,
+    "0.99": 0.9927528591451674
+  },
+  "weighted_score_norm": 6.859277489542722e-09
+}

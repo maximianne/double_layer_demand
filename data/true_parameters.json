@@ -1,0 +1,29 @@
+{
+  "seed": 20261002,
+  "n_resellers": 120,
+  "n_quarters": 8,
+  "blp": {
+    "intercept": 1.3,
+    "quality_mean": 0.7,
+    "price_coefficient": -0.8,
+    "quality_size_interaction": 0.2,
+    "quality_random_sd": 0.3,
+    "scarcity_low": 0.1,
+    "scarcity_medium": 0.25,
+    "scarcity_zero": 0.45
+  },
+  "ppml": {
+    "intercept": -0.5,
+    "log1p_reseller_demand": 0.85,
+    "promotion": 0.12,
+    "replenishment_days": -0.006,
+    "ordering_period_increment": 0.03
+  },
+  "reporting": {
+    "intercept": 0.15,
+    "log_size": 0.35,
+    "integration_score": 0.8,
+    "reseller_type": 0.25,
+    "quarter_index": 0.08
+  }
+}

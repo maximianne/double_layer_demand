@@ -1,0 +1,24 @@
+{
+  "all": {
+    "mean_prediction_rmse": 2.7116794102322794,
+    "completed_total": 962801.4553719433,
+    "true_realized_total": 961822.0,
+    "completed_total_relative_error": 0.0010183333006972273
+  },
+  "nonreporting": {
+    "mean_prediction_rmse": 2.657259340999932,
+    "completed_total": 307630.4553719433,
+    "true_realized_total": 306651.0,
+    "completed_total_relative_error": 0.0031940393866098926
+  },
+  "reporting_probability_rmse": 0.0028990676681970905,
+  "oracle_ppml": {
+    "converged": true,
+    "iterations": 7,
+    "design_rank": 177,
+    "columns": 177,
+    "max_average_score": 1.50858326630304e-08,
+    "weighted_objective": -27.032646628764013,
+    "hessian_condition": 10237071.903139343
+  }
+}

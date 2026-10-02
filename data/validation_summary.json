@@ -1,0 +1,13 @@
+{
+  "products": 24,
+  "resellers": 120,
+  "supply_inventory": 1152,
+  "reseller_capacity": 5760,
+  "reseller_panel": 69120,
+  "sellthrough": 46205,
+  "blp_product_market": 1152,
+  "ground_truth": 69120,
+  "reporting_rate": 0.6684751157407407,
+  "zero_inside_share_rows": 0,
+  "observed_zero_sellthrough": 316
+}

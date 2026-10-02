@@ -1,0 +1,8 @@
+{
+  "weighted_mean_optimum": true,
+  "weight_scale_invariance": true,
+  "all_zero_rejected": true,
+  "completion_matches_reporting": true,
+  "aggregate_totals_match": true,
+  "rows": 69120
+}

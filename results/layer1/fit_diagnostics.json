@@ -1,0 +1,42 @@
+{
+  "step1_theta": [
+    0.28172141329800265,
+    0.07084606921676533
+  ],
+  "step2_theta": [
+    0.2943763064791145,
+    0.07592660951471684
+  ],
+  "step1_objective": 0.4286699648864464,
+  "step2_objective": 5.38890910187156,
+  "optimizer_success": true,
+  "optimizer_message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+  "micro_moments": true,
+  "objective_evaluations": 105,
+  "final_contraction_iterations": 285,
+  "max_share_error": 1.6826345872189563e-11,
+  "instrument_rank": 10,
+  "instrument_regressor_rank": 6,
+  "cross_moment_condition": 82.08309789975199,
+  "cluster_count": 32,
+  "weight_covariance_condition": 3748.998935647274,
+  "nonlinear_bound_hit": false,
+  "first_step_starts": [
+    {
+      "start": [
+        0.2,
+        0.1
+      ],
+      "success": true,
+      "objective": 0.4286699648864464
+    },
+    {
+      "start": [
+        0.5,
+        0.3
+      ],
+      "success": true,
+      "objective": 0.4286699648868394
+    }
+  ]
+}
